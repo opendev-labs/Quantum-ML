@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+quantum_ml/__init__.py
+quantum_ml/main.py
+quantum_ml/quantum_model.py
+quantum_ml.egg-info/PKG-INFO
+quantum_ml.egg-info/SOURCES.txt
+quantum_ml.egg-info/dependency_links.txt
+quantum_ml.egg-info/requires.txt
+quantum_ml.egg-info/top_level.txt
+tests/test_main.py

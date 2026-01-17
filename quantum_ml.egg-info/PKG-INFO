@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: quantum-ml
+Version: 0.1.0
+Summary: Quantum Machine Learning Module
+License-File: LICENSE
+Requires-Dist: quantum-compute
+Requires-Dist: torch
+Requires-Dist: pennylane
+Requires-Dist: numpy
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

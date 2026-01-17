@@ -1,5 +1,7 @@
-pennylane
+../Quantum-Compute
 torch
+pennylane
+numpy
 fastapi
 uvicorn
 pytest
